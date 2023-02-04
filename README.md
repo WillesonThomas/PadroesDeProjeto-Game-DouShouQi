@@ -19,7 +19,7 @@ uma contra a outra, no mesmo computador.
 14. Implementado o padrão de projeto Composite
 
 ## 📁 Acesso ao projeto
-* O arquivo [Manual - Dou Shou Qi.pdf](https://github.com/WillesonThomas/willdev-game-dou-shou-qi/files/10609778/Manual.-.Dou.Shou.Qi.pdf) apresenta mais detalhes quanto ao desenvolvimento do projeto e sua respectiva aplicação.
+* O arquivo [Manual - Dou Shou Qi.pdf](https://github.com/WillesonThomas/willdev-game-dou-shou-qi/files/10609778/Manual.-.Dou.Shou.Qi.pdf) apresenta mais detalhes quanto ao desenvolvimento do projeto e sua aplicação.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
