@@ -24,6 +24,5 @@ uma contra a outra, no mesmo computador.
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Java 8``
-- ``Eclipse IDEA``
 - ``Paradigma de orientação a objetos``
 - ``Padrões de projeto``
